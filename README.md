@@ -40,10 +40,17 @@ The notebook uses the following Python libraries:
 ## 📁 Repository Structure
 
 sentiment-analysis/
+
 ├── data/
+
 │ ├── train_set.csv # Training data
+
 │ ├── validation_set.csv # Validation data
+
 │ └── test_set.csv # Test data
+
 ├── notebooks/
+
 │ └── Sentiment_Analysis.ipynb # Main analysis notebook
+
 └── README.md
